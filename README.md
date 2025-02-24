@@ -6,11 +6,11 @@ This project explores YouTube trending videos across multiple regions using Powe
 </br>
 
     Overview Analysis: Identified general trends, most viewed videos, and engagement patterns.
-    Category & Content Analysis: Explored dominant video categories and how content type impacts virality.
-    Regional Comparisons: Analyzed differences in trending videos across countries to understand audience preferences.
-    Engagement Metrics: Examined factors such as likes, comments, and shares to determine what drives engagement.
+    Category & Content Analysis:  Explored dominant video categories and how content type impacts virality.
+    Regional Comparisons:Analyzed differences in trending videos across countries to understand audience preferences.
+    Engagement Metrics:  Examined factors such as likes, comments, and shares to determine what drives engagement.
     Publication Trends: Assessed the best times and days for videos to trend.
-    </br>
+</br>
 
 🛠 Tools & Technologies:
 </br>
